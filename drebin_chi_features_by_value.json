@@ -1,0 +1,782 @@
+{
+    "transact": {
+        "chi2_stat": 2833.6458627068578,
+        "p_value": 0.0
+    },
+    "onServiceConnected": {
+        "chi2_stat": 2551.935438607162,
+        "p_value": 0.0
+    },
+    "bindService": {
+        "chi2_stat": 2564.9731445949915,
+        "p_value": 0.0
+    },
+    "attachInterface": {
+        "chi2_stat": 2689.7802437156543,
+        "p_value": 0.0
+    },
+    "ServiceConnection": {
+        "chi2_stat": 2532.8799185201424,
+        "p_value": 0.0
+    },
+    "android.os.Binder": {
+        "chi2_stat": 2211.2983881960126,
+        "p_value": 0.0
+    },
+    "SEND_SMS": {
+        "chi2_stat": 1209.9809034921864,
+        "p_value": 4.1321665504531116e-265
+    },
+    "Ljava.lang.Class.getCanonicalName": {
+        "chi2_stat": 2148.018714902074,
+        "p_value": 0.0
+    },
+    "Ljava.lang.Class.getMethods": {
+        "chi2_stat": 1956.0612014216636,
+        "p_value": 0.0
+    },
+    "Ljava.lang.Class.cast": {
+        "chi2_stat": 1857.7330250105351,
+        "p_value": 0.0
+    },
+    "Ljava.net.URLDecoder": {
+        "chi2_stat": 1537.5047860673196,
+        "p_value": 0.0
+    },
+    "android.content.pm.Signature": {
+        "chi2_stat": 1612.773697825385,
+        "p_value": 0.0
+    },
+    "android.telephony.SmsManager": {
+        "chi2_stat": 715.3531426613741,
+        "p_value": 1.371240349041238e-157
+    },
+    "READ_PHONE_STATE": {
+        "chi2_stat": 1247.4563515530929,
+        "p_value": 2.9639780681712414e-273
+    },
+    "getBinder": {
+        "chi2_stat": 1656.1724691069217,
+        "p_value": 0.0
+    },
+    "ClassLoader": {
+        "chi2_stat": 976.2431382349414,
+        "p_value": 2.6194696389637155e-214
+    },
+    "Landroid.content.Context.registerReceiver": {
+        "chi2_stat": 982.6278180715967,
+        "p_value": 1.0724698797040327e-215
+    },
+    "Ljava.lang.Class.getField": {
+        "chi2_stat": 1067.2323081052223,
+        "p_value": 4.373744743561602e-234
+    },
+    "Landroid.content.Context.unregisterReceiver": {
+        "chi2_stat": 1042.656680701702,
+        "p_value": 9.603562992628032e-229
+    },
+    "GET_ACCOUNTS": {
+        "chi2_stat": 1188.684433690087,
+        "p_value": 1.7558889419081695e-260
+    },
+    "RECEIVE_SMS": {
+        "chi2_stat": 587.9252998422714,
+        "p_value": 7.082501343224598e-130
+    },
+    "Ljava.lang.Class.getDeclaredField": {
+        "chi2_stat": 869.9492957583853,
+        "p_value": 3.346616575118673e-191
+    },
+    "READ_SMS": {
+        "chi2_stat": 571.0208203301556,
+        "p_value": 3.3671399877030876e-126
+    },
+    "getCallingUid": {
+        "chi2_stat": 1128.1128933781686,
+        "p_value": 2.5631697922830104e-247
+    },
+    "Ljavax.crypto.spec.SecretKeySpec": {
+        "chi2_stat": 673.1446757809671,
+        "p_value": 2.068873577066382e-148
+    },
+    "android.intent.action.BOOT_COMPLETED": {
+        "chi2_stat": 533.8679538744399,
+        "p_value": 4.068742513856496e-118
+    },
+    "USE_CREDENTIALS": {
+        "chi2_stat": 967.6030642500122,
+        "p_value": 1.9783723068007882e-212
+    },
+    "MANAGE_ACCOUNTS": {
+        "chi2_stat": 903.5498302466749,
+        "p_value": 1.6600913088026252e-198
+    },
+    "android.content.pm.PackageInfo": {
+        "chi2_stat": 516.7821053203048,
+        "p_value": 2.1214931290751462e-114
+    },
+    "KeySpec": {
+        "chi2_stat": 533.5696487017922,
+        "p_value": 4.724515400633215e-118
+    },
+    "TelephonyManager.getLine1Number": {
+        "chi2_stat": 415.0386397534859,
+        "p_value": 2.933324564888872e-92
+    },
+    "DexClassLoader": {
+        "chi2_stat": 719.1714847859696,
+        "p_value": 2.0268347553657914e-158
+    },
+    "HttpGet.init": {
+        "chi2_stat": 531.7100025999462,
+        "p_value": 1.1993049116521736e-117
+    },
+    "SecretKey": {
+        "chi2_stat": 500.2153705677786,
+        "p_value": 8.5331627104146e-111
+    },
+    "Ljava.lang.Class.getMethod": {
+        "chi2_stat": 448.2400049367837,
+        "p_value": 1.7423718872566272e-99
+    },
+    "System.loadLibrary": {
+        "chi2_stat": 484.65786721630224,
+        "p_value": 2.071153312563783e-107
+    },
+    "android.intent.action.SEND": {
+        "chi2_stat": 696.1235936914873,
+        "p_value": 2.0828476401243235e-153
+    },
+    "Ljavax.crypto.Cipher": {
+        "chi2_stat": 415.2798106989039,
+        "p_value": 2.5993512575895072e-92
+    },
+    "WRITE_SMS": {
+        "chi2_stat": 288.01060547895463,
+        "p_value": 1.3490636347373911e-64
+    },
+    "READ_SYNC_SETTINGS": {
+        "chi2_stat": 607.6272360984726,
+        "p_value": 3.671400631150009e-134
+    },
+    "AUTHENTICATE_ACCOUNTS": {
+        "chi2_stat": 575.4889313820514,
+        "p_value": 3.592001618060613e-127
+    },
+    "android.telephony.gsm.SmsManager": {
+        "chi2_stat": 165.0500011634435,
+        "p_value": 8.920461991930664e-38
+    },
+    "WRITE_HISTORY_BOOKMARKS": {
+        "chi2_stat": 206.5069443841213,
+        "p_value": 7.942941103940644e-47
+    },
+    "TelephonyManager.getSubscriberId": {
+        "chi2_stat": 262.0664632290139,
+        "p_value": 6.082515559324902e-59
+    },
+    "mount": {
+        "chi2_stat": 316.2744948298314,
+        "p_value": 9.384509368355613e-71
+    },
+    "INSTALL_PACKAGES": {
+        "chi2_stat": 169.95372813979046,
+        "p_value": 7.573083255000093e-39
+    },
+    "Runtime.getRuntime": {
+        "chi2_stat": 354.6785040306036,
+        "p_value": 4.0583368538816376e-79
+    },
+    "CAMERA": {
+        "chi2_stat": 399.5795441446758,
+        "p_value": 6.799276853967298e-89
+    },
+    "Ljava.lang.Object.getClass": {
+        "chi2_stat": 272.57304520173795,
+        "p_value": 3.119858712681786e-61
+    },
+    "WRITE_SYNC_SETTINGS": {
+        "chi2_stat": 507.29316590815233,
+        "p_value": 2.461202241826883e-112
+    },
+    "READ_HISTORY_BOOKMARKS": {
+        "chi2_stat": 196.31231242109808,
+        "p_value": 1.3323076186480611e-44
+    },
+    "Ljava.lang.Class.forName": {
+        "chi2_stat": 253.94928503996886,
+        "p_value": 3.5767314333812495e-57
+    },
+    "INTERNET": {
+        "chi2_stat": 359.4690375834108,
+        "p_value": 3.6745125251100736e-80
+    },
+    "android.intent.action.PACKAGE_REPLACED": {
+        "chi2_stat": 406.8847259409233,
+        "p_value": 1.7468188089525768e-90
+    },
+    "Binder": {
+        "chi2_stat": 226.02895825265713,
+        "p_value": 4.3791795433339e-51
+    },
+    "android.intent.action.SEND_MULTIPLE": {
+        "chi2_stat": 399.50327586022763,
+        "p_value": 7.064239567788217e-89
+    },
+    "RECORD_AUDIO": {
+        "chi2_stat": 304.4445725505112,
+        "p_value": 3.5438228644161816e-68
+    },
+    "IBinder": {
+        "chi2_stat": 201.3600336705652,
+        "p_value": 1.0545010411255274e-45
+    },
+    "android.os.IBinder": {
+        "chi2_stat": 201.3600336705652,
+        "p_value": 1.0545010411255274e-45
+    },
+    "createSubprocess": {
+        "chi2_stat": 96.31153112991578,
+        "p_value": 9.815667849616743e-23
+    },
+    "NFC": {
+        "chi2_stat": 333.4002103335416,
+        "p_value": 1.7467402356872948e-74
+    },
+    "ACCESS_LOCATION_EXTRA_COMMANDS": {
+        "chi2_stat": 129.9501175666881,
+        "p_value": 4.202059541241541e-30
+    },
+    "URLClassLoader": {
+        "chi2_stat": 336.31691199583963,
+        "p_value": 4.045705993302831e-75
+    },
+    "WRITE_APN_SETTINGS": {
+        "chi2_stat": 125.35890321957208,
+        "p_value": 4.247414189012839e-29
+    },
+    "abortBroadcast": {
+        "chi2_stat": 140.1236398588912,
+        "p_value": 2.5013625664506615e-32
+    },
+    "BIND_REMOTEVIEWS": {
+        "chi2_stat": 331.85155232625095,
+        "p_value": 3.797695640917547e-74
+    },
+    "android.intent.action.TIME_SET": {
+        "chi2_stat": 362.9482466074695,
+        "p_value": 6.421240099804657e-81
+    },
+    "READ_PROFILE": {
+        "chi2_stat": 314.98952033026956,
+        "p_value": 1.787799277044865e-70
+    },
+    "TelephonyManager.getDeviceId": {
+        "chi2_stat": 156.7087526861386,
+        "p_value": 5.9264099225413763e-36
+    },
+    "MODIFY_AUDIO_SETTINGS": {
+        "chi2_stat": 248.1284343702775,
+        "p_value": 6.644524110764528e-56
+    },
+    "getCallingPid": {
+        "chi2_stat": 346.67772093908013,
+        "p_value": 2.2419332035032368e-77
+    },
+    "READ_SYNC_STATS": {
+        "chi2_stat": 343.5306501023048,
+        "p_value": 1.0863488918054537e-76
+    },
+    "BROADCAST_STICKY": {
+        "chi2_stat": 314.99657329040906,
+        "p_value": 1.7814859221340876e-70
+    },
+    "android.intent.action.PACKAGE_REMOVED": {
+        "chi2_stat": 309.69161544900163,
+        "p_value": 2.5492022690254464e-69
+    },
+    "android.intent.action.TIMEZONE_CHANGED": {
+        "chi2_stat": 272.80067050050764,
+        "p_value": 2.7830868757449958e-61
+    },
+    "WAKE_LOCK": {
+        "chi2_stat": 119.10646254505887,
+        "p_value": 9.925672617723684e-28
+    },
+    "RECEIVE_BOOT_COMPLETED": {
+        "chi2_stat": 135.33648190338172,
+        "p_value": 2.787001491775742e-31
+    },
+    "RESTART_PACKAGES": {
+        "chi2_stat": 97.09656144199997,
+        "p_value": 6.602746296074334e-23
+    },
+    "Ljava.lang.Class.getPackage": {
+        "chi2_stat": 148.87289267518085,
+        "p_value": 3.057205082719138e-34
+    },
+    "chmod": {
+        "chi2_stat": 102.42097691800558,
+        "p_value": 4.489227336076477e-24
+    },
+    "Ljava.lang.Class.getDeclaredClasses": {
+        "chi2_stat": 201.89700992101973,
+        "p_value": 8.051399841590097e-46
+    },
+    "android.intent.action.ACTION_POWER_DISCONNECTED": {
+        "chi2_stat": 214.9810419012953,
+        "p_value": 1.1251299668743456e-48
+    },
+    "android.intent.action.PACKAGE_ADDED": {
+        "chi2_stat": 208.68862125934706,
+        "p_value": 2.654456714899847e-47
+    },
+    "PathClassLoader": {
+        "chi2_stat": 163.58173539695062,
+        "p_value": 1.8669583865933392e-37
+    },
+    "TelephonyManager.getSimSerialNumber": {
+        "chi2_stat": 58.634191111142854,
+        "p_value": 1.8988775858198497e-14
+    },
+    "Runtime.load": {
+        "chi2_stat": 159.56310542055277,
+        "p_value": 1.4096306390795642e-36
+    },
+    "TelephonyManager.getCallState": {
+        "chi2_stat": 135.37616446360147,
+        "p_value": 2.731854023310607e-31
+    },
+    "BLUETOOTH": {
+        "chi2_stat": 105.4256233396123,
+        "p_value": 9.852755364656069e-25
+    },
+    "READ_CALENDAR": {
+        "chi2_stat": 134.61595252807174,
+        "p_value": 4.006275135838538e-31
+    },
+    "READ_CALL_LOG": {
+        "chi2_stat": 157.63760351645072,
+        "p_value": 3.713871225720556e-36
+    },
+    "SUBSCRIBED_FEEDS_WRITE": {
+        "chi2_stat": 155.88673036364324,
+        "p_value": 8.962299496377905e-36
+    },
+    "READ_EXTERNAL_STORAGE": {
+        "chi2_stat": 60.82967226105036,
+        "p_value": 6.223280425190054e-15
+    },
+    "TelephonyManager.getSimCountryIso": {
+        "chi2_stat": 120.90594944246891,
+        "p_value": 4.0068427233619535e-28
+    },
+    "sendMultipartTextMessage": {
+        "chi2_stat": 106.4012625393294,
+        "p_value": 6.021936083994433e-25
+    },
+    "PackageInstaller": {
+        "chi2_stat": 37.10651325465664,
+        "p_value": 1.1184949741207625e-09
+    },
+    "VIBRATE": {
+        "chi2_stat": 80.4195706047488,
+        "p_value": 3.027815157944997e-19
+    },
+    "remount": {
+        "chi2_stat": 47.41964070263104,
+        "p_value": 5.730562329966703e-12
+    },
+    "android.intent.action.ACTION_SHUTDOWN": {
+        "chi2_stat": 154.78071089011829,
+        "p_value": 1.563563017975181e-35
+    },
+    "sendDataMessage": {
+        "chi2_stat": 40.3582587299067,
+        "p_value": 2.114098815970141e-10
+    },
+    "ACCESS_NETWORK_STATE": {
+        "chi2_stat": 62.209542219528075,
+        "p_value": 3.087880514719455e-15
+    },
+    "chown": {
+        "chi2_stat": 42.857556779638834,
+        "p_value": 5.887422212719702e-11
+    },
+    "HttpPost.init": {
+        "chi2_stat": 80.12102236894842,
+        "p_value": 3.521656113996122e-19
+    },
+    "Ljava.lang.Class.getClasses": {
+        "chi2_stat": 111.4768259462129,
+        "p_value": 4.652115450493095e-26
+    },
+    "SUBSCRIBED_FEEDS_READ": {
+        "chi2_stat": 115.09852912819886,
+        "p_value": 7.488288055026962e-27
+    },
+    "TelephonyManager.isNetworkRoaming": {
+        "chi2_stat": 84.35812145004648,
+        "p_value": 4.127997204548762e-20
+    },
+    "CHANGE_WIFI_MULTICAST_STATE": {
+        "chi2_stat": 111.36305621681032,
+        "p_value": 4.9268935749184736e-26
+    },
+    "WRITE_CALENDAR": {
+        "chi2_stat": 89.7488650407529,
+        "p_value": 2.7039339562424716e-21
+    },
+    "android.intent.action.PACKAGE_DATA_CLEARED": {
+        "chi2_stat": 117.79679275002243,
+        "p_value": 1.9209370456320118e-27
+    },
+    "MASTER_CLEAR": {
+        "chi2_stat": 104.77946397023494,
+        "p_value": 1.3651493073464854e-24
+    },
+    "HttpUriRequest": {
+        "chi2_stat": 63.65956692834978,
+        "p_value": 1.4788902989984695e-15
+    },
+    "UPDATE_DEVICE_STATS": {
+        "chi2_stat": 39.67170736034917,
+        "p_value": 3.004466219760562e-10
+    },
+    "WRITE_CALL_LOG": {
+        "chi2_stat": 88.00824313051069,
+        "p_value": 6.518225867862437e-21
+    },
+    "DELETE_PACKAGES": {
+        "chi2_stat": 11.826850525799058,
+        "p_value": 0.0005838266197112869
+    },
+    "GET_TASKS": {
+        "chi2_stat": 50.1411322408031,
+        "p_value": 1.4307624580910278e-12
+    },
+    "GLOBAL_SEARCH": {
+        "chi2_stat": 38.87626601876105,
+        "p_value": 4.515372298311015e-10
+    },
+    "DELETE_CACHE_FILES": {
+        "chi2_stat": 20.043649313119392,
+        "p_value": 7.56944871344543e-06
+    },
+    "WRITE_USER_DICTIONARY": {
+        "chi2_stat": 91.31404369976192,
+        "p_value": 1.2258751709088444e-21
+    },
+    "android.intent.action.PACKAGE_CHANGED": {
+        "chi2_stat": 67.73119085334432,
+        "p_value": 1.8737579803920328e-16
+    },
+    "android.intent.action.NEW_OUTGOING_CALL": {
+        "chi2_stat": 20.755095681704244,
+        "p_value": 5.219251395213639e-06
+    },
+    "REORDER_TASKS": {
+        "chi2_stat": 74.9431429253591,
+        "p_value": 4.844668676245343e-18
+    },
+    "WRITE_PROFILE": {
+        "chi2_stat": 74.79562369563192,
+        "p_value": 5.220530038044634e-18
+    },
+    "SET_WALLPAPER": {
+        "chi2_stat": 21.290631388298635,
+        "p_value": 3.946555850782303e-06
+    },
+    "BIND_INPUT_METHOD": {
+        "chi2_stat": 53.84710215970998,
+        "p_value": 2.1671449275647173e-13
+    },
+    "divideMessage": {
+        "chi2_stat": 33.07422065829216,
+        "p_value": 8.870709301754224e-09
+    },
+    "READ_SOCIAL_STREAM": {
+        "chi2_stat": 64.89783384102033,
+        "p_value": 7.888374424813972e-16
+    },
+    "READ_USER_DICTIONARY": {
+        "chi2_stat": 66.66996577162402,
+        "p_value": 3.20988615397944e-16
+    },
+    "PROCESS_OUTGOING_CALLS": {
+        "chi2_stat": 18.095622681791184,
+        "p_value": 2.1008384021205822e-05
+    },
+    "CALL_PRIVILEGED": {
+        "chi2_stat": 50.875478636678075,
+        "p_value": 9.841543892037094e-13
+    },
+    "Runtime.exec": {
+        "chi2_stat": 35.030654188750475,
+        "p_value": 3.245554881131737e-09
+    },
+    "BIND_WALLPAPER": {
+        "chi2_stat": 16.964673509471872,
+        "p_value": 3.808184026003878e-05
+    },
+    "RECEIVE_WAP_PUSH": {
+        "chi2_stat": 14.759992570887361,
+        "p_value": 0.00012209872517837005
+    },
+    "DUMP": {
+        "chi2_stat": 72.01500254936083,
+        "p_value": 2.135674816958907e-17
+    },
+    "BATTERY_STATS": {
+        "chi2_stat": 45.834824271173716,
+        "p_value": 1.2865595516362232e-11
+    },
+    "ACCESS_COARSE_LOCATION": {
+        "chi2_stat": 16.625320418965625,
+        "p_value": 4.55389933687669e-05
+    },
+    "SET_TIME": {
+        "chi2_stat": 66.66996577162402,
+        "p_value": 3.20988615397944e-16
+    },
+    "android.intent.action.SENDTO": {
+        "chi2_stat": 24.09096320901383,
+        "p_value": 9.189051576179949e-07
+    },
+    "WRITE_SOCIAL_STREAM": {
+        "chi2_stat": 55.01102925695707,
+        "p_value": 1.1985536298913254e-13
+    },
+    "WRITE_SETTINGS": {
+        "chi2_stat": 34.616409281466275,
+        "p_value": 4.015074139169019e-09
+    },
+    "REBOOT": {
+        "chi2_stat": 57.58620135691853,
+        "p_value": 3.2348700263033485e-14
+    },
+    "BLUETOOTH_ADMIN": {
+        "chi2_stat": 23.11136784874083,
+        "p_value": 1.5288414474346539e-06
+    },
+    "TelephonyManager.getNetworkOperator": {
+        "chi2_stat": 28.262547371815042,
+        "p_value": 1.0592576633172681e-07
+    },
+    "/system/bin": {
+        "chi2_stat": 12.338975710634788,
+        "p_value": 0.0004435983530068673
+    },
+    "MessengerService": {
+        "chi2_stat": 15.656597264170689,
+        "p_value": 7.594718155874269e-05
+    },
+    "BIND_DEVICE_ADMIN": {
+        "chi2_stat": 49.26622659778984,
+        "p_value": 2.2347709433775976e-12
+    },
+    "WRITE_GSERVICES": {
+        "chi2_stat": 43.792478259594404,
+        "p_value": 3.6510551405855256e-11
+    },
+    "IRemoteService": {
+        "chi2_stat": 29.15296746758156,
+        "p_value": 6.688322546100831e-08
+    },
+    "KILL_BACKGROUND_PROCESSES": {
+        "chi2_stat": 34.4626501943211,
+        "p_value": 4.345095819275564e-09
+    },
+    "SET_ALARM": {
+        "chi2_stat": 16.051415297708537,
+        "p_value": 6.1645533050801e-05
+    },
+    "ACCOUNT_MANAGER": {
+        "chi2_stat": 26.89148431774413,
+        "p_value": 2.1520501529000365e-07
+    },
+    "/system/app": {
+        "chi2_stat": 15.41241307174733,
+        "p_value": 8.641875022503808e-05
+    },
+    "android.intent.action.CALL": {
+        "chi2_stat": 23.86932962231451,
+        "p_value": 1.0310137709347512e-06
+    },
+    "STATUS_BAR": {
+        "chi2_stat": 28.532060952020423,
+        "p_value": 9.215973264934097e-08
+    },
+    "TelephonyManager.getSimOperator": {
+        "chi2_stat": 15.950384210672269,
+        "p_value": 6.502457935740788e-05
+    },
+    "PERSISTENT_ACTIVITY": {
+        "chi2_stat": 42.43107485200078,
+        "p_value": 7.321745491874935e-11
+    },
+    "CHANGE_NETWORK_STATE": {
+        "chi2_stat": 28.351308080063408,
+        "p_value": 1.0117841368424514e-07
+    },
+    "onBind": {
+        "chi2_stat": 19.549227139840273,
+        "p_value": 9.804039165707874e-06
+    },
+    "Process.start": {
+        "chi2_stat": 9.20076864573317,
+        "p_value": 0.0024191352680781432
+    },
+    "android.intent.action.SCREEN_ON": {
+        "chi2_stat": 17.898133701423184,
+        "p_value": 2.3304953376159572e-05
+    },
+    "Context.bindService": {
+        "chi2_stat": 18.910813194745607,
+        "p_value": 1.3697406788617222e-05
+    },
+    "RECEIVE_MMS": {
+        "chi2_stat": 17.627819985354954,
+        "p_value": 2.6862984327069795e-05
+    },
+    "SET_TIME_ZONE": {
+        "chi2_stat": 24.43720016379073,
+        "p_value": 7.677187327825995e-07
+    },
+    "android.intent.action.BATTERY_OKAY": {
+        "chi2_stat": 4.653129937326985,
+        "p_value": 0.03099697933889385
+    },
+    "BIND_ACCESSIBILITY_SERVICE": {
+        "chi2_stat": 14.998704211318621,
+        "p_value": 0.00010758502495782679
+    },
+    "ADD_VOICEMAIL": {
+        "chi2_stat": 15.656597264170689,
+        "p_value": 7.594718155874269e-05
+    },
+    "CALL_PHONE": {
+        "chi2_stat": 6.311374613144125,
+        "p_value": 0.011996579216311011
+    },
+    "ProcessBuilder": {
+        "chi2_stat": 18.282695355910707,
+        "p_value": 1.9042917896018723e-05
+    },
+    "BIND_APPWIDGET": {
+        "chi2_stat": 21.837632874189122,
+        "p_value": 2.967228986976361e-06
+    },
+    "FLASHLIGHT": {
+        "chi2_stat": 11.39917111778549,
+        "p_value": 0.0007347688302429488
+    },
+    "READ_LOGS": {
+        "chi2_stat": 4.192619484657106,
+        "p_value": 0.04060031749807432
+    },
+    "Ljava.lang.Class.getResource": {
+        "chi2_stat": 4.2813615605679,
+        "p_value": 0.0385324700422048
+    },
+    "defineClass": {
+        "chi2_stat": 17.727827806616713,
+        "p_value": 2.5487075225737808e-05
+    },
+    "SET_PROCESS_LIMIT": {
+        "chi2_stat": 8.948987330904918,
+        "p_value": 0.002776234435754826
+    },
+    "android.intent.action.PACKAGE_RESTARTED": {
+        "chi2_stat": 20.28629800813014,
+        "p_value": 6.667637758881576e-06
+    },
+    "MOUNT_UNMOUNT_FILESYSTEMS": {
+        "chi2_stat": 8.883782482396612,
+        "p_value": 0.0028771484411929467
+    },
+    "BIND_TEXT_SERVICE": {
+        "chi2_stat": 6.032410258827028,
+        "p_value": 0.014045541595992202
+    },
+    "INSTALL_LOCATION_PROVIDER": {
+        "chi2_stat": 11.93598030691956,
+        "p_value": 0.0005506014833366529
+    },
+    "android.intent.action.CALL_BUTTON": {
+        "chi2_stat": 4.1052018998957145,
+        "p_value": 0.04275148672639827
+    },
+    "android.intent.action.SCREEN_OFF": {
+        "chi2_stat": 7.846778229512536,
+        "p_value": 0.005091135529779252
+    },
+    "findClass": {
+        "chi2_stat": 7.208640526754015,
+        "p_value": 0.0072553429438400995
+    },
+    "SYSTEM_ALERT_WINDOW": {
+        "chi2_stat": 6.694390939278772,
+        "p_value": 0.009671670332897632
+    },
+    "MOUNT_FORMAT_FILESYSTEMS": {
+        "chi2_stat": 17.989804473213823,
+        "p_value": 2.220912907858257e-05
+    },
+    "CHANGE_CONFIGURATION": {
+        "chi2_stat": 4.088210238046757,
+        "p_value": 0.04318334602708476
+    },
+    "CLEAR_APP_USER_DATA": {
+        "chi2_stat": 10.29134874955799,
+        "p_value": 0.0013365535970554414
+    },
+    "intent.action.RUN": {
+        "chi2_stat": 21.092585397389566,
+        "p_value": 4.376181517420835e-06
+    },
+    "android.intent.action.SET_WALLPAPER": {
+        "chi2_stat": 8.60837650348932,
+        "p_value": 0.003346204414124375
+    },
+    "ACCESS_SURFACE_FLINGER": {
+        "chi2_stat": 4.370461126181634,
+        "p_value": 0.03656709513170074
+    },
+    "Runtime.loadLibrary": {
+        "chi2_stat": 12.4165903678004,
+        "p_value": 0.0004255364656709225
+    },
+    "EXPAND_STATUS_BAR": {
+        "chi2_stat": 5.000428836863204,
+        "p_value": 0.025341039176980013
+    },
+    "INTERNAL_SYSTEM_WINDOW": {
+        "chi2_stat": 6.533343790330042,
+        "p_value": 0.010587075096431857
+    },
+    "SET_ACTIVITY_WATCHER": {
+        "chi2_stat": 11.93598030691956,
+        "p_value": 0.0005506014833366529
+    },
+    "WRITE_CONTACTS": {
+        "chi2_stat": 10.816108245394874,
+        "p_value": 0.0010062077494481963
+    },
+    "android.intent.action.ACTION_POWER_CONNECTED": {
+        "chi2_stat": 5.079815007631988,
+        "p_value": 0.02420595251732784
+    },
+    "BIND_VPN_SERVICE": {
+        "chi2_stat": 6.032410258827028,
+        "p_value": 0.014045541595992202
+    },
+    "ACCESS_MOCK_LOCATION": {
+        "chi2_stat": 3.892418777954028,
+        "p_value": 0.04850452016378113
+    },
+    "WRITE_EXTERNAL_STORAGE": {
+        "chi2_stat": 4.084478099326793,
+        "p_value": 0.04327881497045491
+    }
+}
